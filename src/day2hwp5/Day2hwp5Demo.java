@@ -18,6 +18,13 @@ public void add (int a, int b) {
 
 }
 
+
+public void getinfo() {
+	
+	System.out.println ("information.......");
+}
+
+
 }
 
 
